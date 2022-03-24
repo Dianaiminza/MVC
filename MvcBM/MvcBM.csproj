@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Home\analytics-card-01.cshtml" />
+    <Content Remove="Views\Home\analytics-card-02.cshtml" />
+    <Content Remove="Views\Home\analytics-card-03.cshtml" />
+    <Content Remove="Views\Home\analytics-card-04.cshtml" />
+    <Content Remove="Views\Home\analytics-card-05.cshtml" />
+    <Content Remove="Views\Home\analytics-card-06.cshtml" />
+    <Content Remove="Views\Home\analytics-card-07.cshtml" />
+    <Content Remove="Views\Home\analytics-card-08.cshtml" />
+    <Content Remove="Views\Home\analytics-card-09.cshtml" />
+    <Content Remove="Views\Home\analytics-card-10.cshtml" />
+    <Content Remove="Views\Home\analytics-card-11.cshtml" />
+    <Content Remove="Views\Home\campaigns-actions.cshtml" />
+    <Content Remove="Views\Home\campaigns-cards.cshtml" />
+    <Content Remove="Views\Home\cart-items.cshtml" />
+    <Content Remove="Views\Home\customers-table.cshtml" />
+    <Content Remove="Views\Home\_dashboard-actions.cshtml" />
+    <Content Remove="Views\Home\_dashboard-card-01.cshtml" />
+    <Content Remove="Views\Home\_dashboard-card-02.cshtml" />
+    <Content Remove="Views\Home\_dashboard-card-03.cshtml" />
+    <Content Remove="Views\Home\_dashboard-card-04.cshtml" />
+    <Content Remove="Views\Home\_dashboard-card-05.cshtml" />
+    <Content Remove="Views\Home\_dashboard-card-06.cshtml" />
+    <Content Remove="Views\Home\_dashboard-card-07.cshtml" />
+    <Content Remove="Views\Home\_dashboard-card-08.cshtml" />
+    <Content Remove="Views\Home\_dashboard-card-09.cshtml" />
+    <Content Remove="Views\Home\_dashboard-card-10.cshtml" />
+    <Content Remove="Views\Home\_dashboard-card-11.cshtml" />
+    <Content Remove="Views\Shared\_Welcomebanner.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Home\_dashboard-actions.cshtml" />
+    <None Include="Views\Home\_dashboard-card-01.cshtml" />
+    <None Include="Views\Home\_dashboard-card-02.cshtml" />
+    <None Include="Views\Home\_dashboard-card-03.cshtml" />
+    <None Include="Views\Home\_dashboard-card-04.cshtml" />
+    <None Include="Views\Home\_dashboard-card-05.cshtml" />
+    <None Include="Views\Home\_dashboard-card-06.cshtml" />
+    <None Include="Views\Home\_dashboard-card-07.cshtml" />
+    <None Include="Views\Home\_dashboard-card-08.cshtml" />
+    <None Include="Views\Home\_dashboard-card-09.cshtml" />
+    <None Include="Views\Home\_dashboard-card-10.cshtml" />
+    <None Include="Views\Home\_dashboard-card-11.cshtml" />
+    <None Include="Views\Shared\_Welcomebanner.cshtml" />
+  </ItemGroup>
+
+</Project>
